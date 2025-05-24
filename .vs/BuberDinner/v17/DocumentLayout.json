@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dany_\\net\\BuberDinner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A41F151-DE20-48B6-863F-5AF43157313A}|tests\\UnitTests\\BuberDinner.Application.UnitTests\\BuberDinner.Application.UnitTests.csproj|c:\\users\\dany_\\net\\buberdinner\\tests\\unittests\\buberdinner.application.unittests\\menus\\commands\\createmenu\\createmenucommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A41F151-DE20-48B6-863F-5AF43157313A}|tests\\UnitTests\\BuberDinner.Application.UnitTests\\BuberDinner.Application.UnitTests.csproj|solutionrelative:tests\\unittests\\buberdinner.application.unittests\\menus\\commands\\createmenu\\createmenucommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A41F151-DE20-48B6-863F-5AF43157313A}|tests\\UnitTests\\BuberDinner.Application.UnitTests\\BuberDinner.Application.UnitTests.csproj|c:\\users\\dany_\\net\\buberdinner\\tests\\unittests\\buberdinner.application.unittests\\buberdinner.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A41F151-DE20-48B6-863F-5AF43157313A}|tests\\UnitTests\\BuberDinner.Application.UnitTests\\BuberDinner.Application.UnitTests.csproj|solutionrelative:tests\\unittests\\buberdinner.application.unittests\\buberdinner.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuberDinner.Application.UnitTests",
+              "DocumentMoniker": "C:\\Users\\dany_\\net\\BuberDinner\\tests\\UnitTests\\BuberDinner.Application.UnitTests\\BuberDinner.Application.UnitTests.csproj",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\BuberDinner.Application.UnitTests\\BuberDinner.Application.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\dany_\\net\\BuberDinner\\tests\\UnitTests\\BuberDinner.Application.UnitTests\\BuberDinner.Application.UnitTests.csproj",
+              "RelativeToolTip": "tests\\UnitTests\\BuberDinner.Application.UnitTests\\BuberDinner.Application.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T17:40:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateMenuCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\dany_\\net\\BuberDinner\\tests\\UnitTests\\BuberDinner.Application.UnitTests\\Menus\\Commands\\CreateMenu\\CreateMenuCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\BuberDinner.Application.UnitTests\\Menus\\Commands\\CreateMenu\\CreateMenuCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\dany_\\net\\BuberDinner\\tests\\UnitTests\\BuberDinner.Application.UnitTests\\Menus\\Commands\\CreateMenu\\CreateMenuCommandHandlerTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\BuberDinner.Application.UnitTests\\Menus\\Commands\\CreateMenu\\CreateMenuCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:39:55.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

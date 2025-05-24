@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "X73EQHdB3byfOvj/bDCy6YvQtwXSeljxsr27cxgoP3uZedMEIUAC0IyCI5CPmAg25JItOI5bViBZVMc7e9KYFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dany_\\.net\\BuberDinner\\src\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dany_\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512",
+    "C:\\Users\\dany_\\.nuget\\packages\\erroror\\1.2.0\\erroror.1.2.0.nupkg.sha512",
+    "C:\\Users\\dany_\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\dany_\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\dany_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\dany_\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\dany_\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

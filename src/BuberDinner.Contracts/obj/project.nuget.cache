@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ps0XMkMLZouM00ani1oievglvrMoyRLjcUSztltDjwMS0ErTZ6ZpNV/qyw7a1ut7gC2cNkBgz5SuT2TVzmhxgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dany_\\.net\\BuberDinner\\src\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dany_\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\dany_\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}
